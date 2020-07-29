@@ -1,0 +1,12 @@
+com.fiap.bot
+com.fiap.bot.api
+com.fiap.bot.constants
+com.fiap.bot.exceptions
+com.fiap.bot.integrations.abstracts
+com.fiap.bot.integrations.enums
+com.fiap.bot.integrations.impl
+com.fiap.bot.integrations.telegram.test
+com.fiap.bot.jarvis
+com.fiap.bot.main
+com.fiap.bot.principal
+com.fiap.bot.threads.runnables
